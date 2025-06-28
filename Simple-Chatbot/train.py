@@ -9,7 +9,9 @@ from sklearn.preprocessing import LabelEncoder
 
 import nltk
 from nltk.stem import WordNetLemmatizer
-
+nltk.download('punkt')
+nltk.download('wordnet')
+nltk.download('punkt_tab')
 
 # Load data
 import os
