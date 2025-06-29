@@ -20,3 +20,6 @@ Chạy giao diện chatbot
 ```bash
 streamlit run app.py
 ```
+---
+## Demo
+<img src="Simple-Chatbot/demo/Pasted image.png" alt="Login" width="500"/>
